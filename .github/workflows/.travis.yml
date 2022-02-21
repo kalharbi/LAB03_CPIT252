@@ -1,3 +1,4 @@
-language: java
-java:
-  -14
+ on:
+   language: java
+     java:
+     -14
